@@ -3,7 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=eduardmayer-it&label=Profile%20views&color=0e75b6&style=flat" alt="eduardmayer-it" /> </p>
 
-- 🌱 I’m currently learning **at Techstarter**
 
 - 📫 How to reach me **eduard.mayer.it@gmail.com**
 

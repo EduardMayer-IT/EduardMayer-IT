@@ -1,17 +1,17 @@
 <div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=500&lines=Hi+there%2C+I'm+Eduard+Mayer+👋;A+passionate+frontend+developer;Technology+enthusiast+from+Germany;Building+cool+stuff+with+code!" alt="Typing animation" />
-  </a>
-  <br>
-  <img src="https://media.giphy.com/media/L1R1lvI9HfFZXyoDxk/giphy.gif" width="400" height="200" />
-  <br>
+  <h1>Eduard Mayer</h1>
+  <p>
+    <em>Passionate Frontend Developer & Technology Enthusiast from Germany</em>
+  </p>
   <p>
     <a href="mailto:eduard.mayer.it@gmail.com">
-      <img src="https://img.shields.io/badge/Email-eduard.mayer.it@gmail.com-blue?style=for-the-badge&logo=gmail" alt="Email" />
+      <img src="https://img.shields.io/badge/Email-eduard.mayer.it@gmail.com-0078D4?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
     </a>
-    <img src="https://komarev.com/ghpvc/?username=eduardmayer-it&label=Profile+Views&color=blueviolet&style=for-the-badge" alt="Profile Views" />
+    <img src="https://komarev.com/ghpvc/?username=eduardmayer-it&label=Profile+Views&color=0078D4&style=flat-square" alt="Profile Views" />
   </p>
+  <hr>
 </div>
+
 
 ---
 

@@ -12,28 +12,30 @@
   <hr>
 </div>
 
-
 ---
 
 ### **🔧 Core Technologies & Tools**
-<p align="center">
-  <a href="https://www.arduino.cc/" target="_blank">
+<p align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
+  <a href="https://www.arduino.cc/" target="_blank" rel="noopener noreferrer">
     <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="Arduino" width="50" height="50" />
   </a>
-  <a href="https://aws.amazon.com" target="_blank">
+  <a href="https://aws.amazon.com" target="_blank" rel="noopener noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="50" height="50" />
   </a>
-  <a href="https://www.gnu.org/software/bash/" target="_blank">
+  <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noopener noreferrer">
     <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="Bash" width="50" height="50" />
   </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noopener noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50" />
   </a>
-  <a href="https://www.linux.org/" target="_blank">
+  <a href="https://www.linux.org/" target="_blank" rel="noopener noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="50" height="50" />
   </a>
-  <a href="https://www.python.org" target="_blank">
+  <a href="https://www.python.org" target="_blank" rel="noopener noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="50" height="50" />
+  </a>
+  <a href="https://doc.qt.io/qt-5/qmlapplications.html" target="_blank" rel="noopener noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg" alt="QML" width="50" height="50" />
   </a>
 </p>
 

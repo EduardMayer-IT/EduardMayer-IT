@@ -28,11 +28,6 @@
       </a>
     </td>
     <td align="center">
-      <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noopener noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="Bash" width="50" height="50" />
-      </a>
-    </td>
-    <td align="center">
       <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noopener noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50" />
       </a>
